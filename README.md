@@ -11,8 +11,8 @@ Click the links below to learn more about me!
   * [Portfolio](https://richardcho-portfolio.netlify.app/)
 
 ## 🌱 I’m currently working on ...
-  * Building a netflix clone with React and Rails
   * Studying algorithms & data structures
+  * Studying React Hooks
 
 ## :coffee: Wanna Chat? 
 📫&nbsp;&nbsp;&nbsp;Email me at richardcho100@gmail.com
