@@ -1,6 +1,6 @@
 # Hi there! :wave: I'm Richard
 
-I'm a full stack software engineer that specializes in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. I also have experience in HTML, CSS, Node.js and Express.js.
+I'm a solutions engineer that specializes in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. I also have experience in HTML, CSS, Node.js and Express.js.
 
 With a background in wholesale insurance, I have experience in prioritizing competing tasks under pressure, communicating clearly with clients and collaborating with other team members.
 
@@ -12,7 +12,7 @@ Click the links below to learn more about me!
 
 ## 🌱 I’m currently working on ...
   * Studying algorithms & data structures
-  * Studying React Hooks
+  * Studying WCAG
 
 ## :coffee: Wanna Chat? 
 📫&nbsp;&nbsp;&nbsp;Email me at richardcho100@gmail.com
